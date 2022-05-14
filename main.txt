@@ -3,5 +3,3 @@ main
 a
 
 b
-
-c
